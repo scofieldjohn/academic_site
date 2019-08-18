@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I’m currently a PhD at the University of Missouri. I study the neurocognitive basis of episodic memory using neuroimaging techniques. I also utilize different machine learning techniques and computational modeling to help understand processes that support episodic retrieval. In addition to research, I spend a lot of time adventuring with friends and playing sports!
+I’m currently a PhD candidate at the University of Missouri. I study the neurocognitive basis of episodic memory using neuroimaging techniques. I also utilize different machine learning techniques and computational modeling to help understand processes that support episodic retrieval. In addition to research, I spend a lot of time adventuring with friends and playing sports!
