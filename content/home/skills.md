@@ -38,4 +38,10 @@ subtitle = ""
   name = "Machine Learning"
   description = ""
 
+[[feature]]
+  icon = "microscope"
+  icon_pack = "fas"
+  name = "Research Design"
+  description = ""
+
 +++
