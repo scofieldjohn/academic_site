@@ -1,0 +1,188 @@
+
+
+---
+name: John E. Scofield, M.S.
+date: "`r format(Sys.time(), '%B, %Y')`"
+qualifications: Ph.D. candidate, Cognition & Neuroscience
+address: Columbia, Missouri
+email: jel7c5@mail.missouri.edu
+website: https://scofieldjohn.github.io
+github: scofieldjohn
+twitter: jscofield24
+output: vitae::awesomecv
+headcolor: 515151
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+library(tidyverse)
+```
+An **online version** of this CV can be viewed at: [https://scofieldjohn.github.io/](https://scofieldjohn.github.io/)
+
+# Education
+```{r load_ed}
+
+dat = read.csv('education.csv')
+dat %>% detailed_entries(degree, dates, uni, loc, details)
+
+```
+
+# Teaching
+A copy of my teaching philosophy is accessible online at: [https://scofieldjohn.github.io/](https://scofieldjohn.github.io/)
+
+```{r teach}
+
+tea = read.csv('teaching.csv')
+tea %>% detailed_entries(title, dates, uni, loc, details)
+
+```
+
+# Publications
+##Submitted --------------------------
+Geary, D. C., **Scofield, J. E.**, Hoard, M. K., & Nugent, L. (*Submitted*). Cognitive, attitudinal, and classroom contributions to variation in the pattern of adolescents' mathematical competencies.
+
+Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (*Revise & Resubmit*). Tutorial on designing, implementing, and analyzing a degraded image paradigm: A facial expression-decoding task example. [https://osf.io/ntmah/](https://osf.io/ntmah/)
+
+##2019 -------------------------------
+Cowan, N., Adams, E. J., Bhangal, S., Corcoran, M., Decker, R., Dockter, C. E., ... **Scofield, J. E.**, ... & Watts, A. L. (*In-Press*). Foundations of arrogance: A broad survey and framework for research. *Review of General Psychology*.
+
+Chu, F. W., vanMarle, K., Hoard, M. K., Nugent, L., **Scofield, J. E.**, & Geary, D. C. (*In Press*). Preschool deficits in cardinal knowledge and executive function contribute to longer-term mathematical learning disabilities. *Journal of Experimental Child Psychology*. [https://osf.io/phtxm/](https://osf.io/phtxm/)
+
+**Scofield, J. E.**, Johnson, J. D., Wood, P. K., & Geary, D. C. (2019). Latent resting-state network dynamics in boys and girls with attention-deficit/hyperactive disorder. *PLOS ONE*, *14*(6), e0128891. doi:10.1371/journal.pone.0218891. [https://osf.io/xqewf/](https://osf.io/xqewf/)
+
+Geary, D. C., Hoard, M. K., Nugent, L., Chu, F., **Scofield, J. E.**, & Hibbard, D. F. (2019). Sex differences in mathematics anxiety and attitudes: Concurrent and longitudinal relations to mathematical competence. *Journal of Educational Psychology*. doi:10.1037/edu0000355.
+
+**Scofield, J. E.**, Kostic, B., & Buchanan, E. M. (2019). How the presence of others affects desirability judgments in heterosexual and homosexual participants. *Archives of Sexual Behavior*. doi:10.1007/s10508-019-01516-w. [https://osf.io/ej5kh/](https://osf.io/ej5kh/)
+
+Valentine, K. D., Buchanan, E. M., **Scofield, J. E.**, & Beauchamp, M. T. (2019). Beyond p-values: Utilizing multiple estimates to evaluate evidence. *Behaviormetrika*. doi:10.1007/s41237-019-00078-4.
+
+##2018 -------------------------------
+Buchanan, E. M., & **Scofield, J. E.** (2018). Methods to detect low quality data and its implication for psychological research. *Behavior Research Methods*, 50(6), 2586-2596. doi:10.3758/s13428-018-1035-6.
+
+**Scofield, J. E.**, Buchanan, E. M., & Kostic, B. (2018). A meta-analysis of the survival processing advantage in memory. *Psychonomic Bulletin and Review*, 25(3), 997-1012. doi:10.3758/s13423-017-1346-0.
+
+##2017 --------------------------------
+Derringer, C. J., **Scofield, J. E.**, & Kostic, B. (2017). Investigations of a reproductive processing advantage in memory. *Memory and Cognition*, 45(6), 983-1001. doi: 10.3758/s13421-017-0709-0.
+
+##Pre-prints/Replications -------------
+Sumner, C., **Scofield, J. E.**, Buchanan, E. M., Evans, M., & Shearing, M. (2019). The role of personality, authoritarianism and cognition in the United Kingdom's 2016 referendum on European union membership. [https://osf.io/n5r67/](https://osf.io/n5r67/)
+
+Kostic, B., & **Scofield, J. E.** (2019). Sex differences across sexual orientation and sexual identity. [https://osf.io/8tnd4/](https://osf.io/8tnd4/)
+
+Buchanan, E. M., **Scofield, J. E.**, & Nunley, N. (2018). The N400's 3 As: Association, automaticity, attenuation (and some semantics too). [https://osf.io/6w2se/](https://osf.io/6w2se/)
+
+Buchanan, E. M., & **Scofield, J. E.** (2018). Bulletproof bias? Considering the type of data in common proportion of variance effect sizes. [https://osf.io/cs4vy/](https://osf.io/cs4vy/)
+
+**Scofield, J. E.** & Kostic, B. (*2016, April 05*). Eye movements and handedness in memory. Retrieved from [http://www.PsychFileDrawer.org/replication.php?attempt=MjQ2](http://www.PsychFileDrawer.org/replication.php?attempt=MjQ2)
+
+**Scofield, J. E.** & Kostic, B. (*2016, January 29*). Sex and sexual orientation differences in mating.
+Retrieved from [http://www.psychfiledrawer.org/replication.php?attempt=MjM4](http://www.psychfiledrawer.org/replication.php?attempt=MjM4)
+
+# Presentations
+**Scofield, J. E.**, & Johnson, J. D. (2019, November). *The precision of retrieving temporal information associated with episodic memories*. Poster presented at the Psychonomic Society Annual Meeting, Montreal, Canada.
+
+Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (2019, June). *Development of a timed facial expression decoding task*. Talk presented at teh NorthEastern Evolutionary Psychology Society, Boston, MA.
+
+Shenk, M., McAllister, L., **Scofield, J. E.**, Zoeller, M., & Jaeggi, A. (2019 June). *Are reproductive behaviors sensitive to priming? A bayesian multi-level meta-analysis*. Talk presented at the Human Behavior & Evolution Society Annual Meeting, Boston, MA.
+
+**Scofield, J. E.**, Price, M. H., Flores, A., Merkle, E. C., & Johnson, J. D. (2019, March). *Behavioral and electrophysiological correlates of the memory search process during continuous recognition*. Poster presented at the Cognitive Neuroscience Society, San Francisco, CA.
+
+**Scofield, J. E.**, Price, M. H., Flores, A., Merkle, E.C., & Johnson, J.D. (2018, November). *Scanning through memory along a compressed timeline: A continuous recognition task with multiple repetitions*. Poster presented at the Psychonomic Society Annual Meeting, New Orleans, LA.
+
+**Scofield, J. E.** & Geary, D. C. (2018, August). *Sex differences in brain network dynamics across time*. Oral talk presented at the Heterodox Psychology Workshop, Orange, CA.
+
+**Scofield, J. E.** (2018, May). *The contribution of handedness to hippocampal functional connectivity*. Data blitz presented at the Show Me State Conference on Cognition, St. Louis, MO.
+
+**Scofield, J. E.**, & Johnson, Jeffrey D. (2018, March). *Resting-state hippocampal functional connectivity depends on handedness*. Poster presented at the Cognitive Neuroscience Society, Boston, MA.
+
+**Scofield, J. E.**, & Buchanan, E. M. (2017, November). *Survey automation detection methods and its implications on psychological research*. Oral talk presented at the Society for Computers in Psychology Conference, Vancouver, BC, Canada.
+
+Buchanan, E. M., **Scofield, J. E.**, & Marshall, C. Z. (2017, November). *Distributions and Sampling Variance for Five Effect Size Measures of Variance Overlap*. Poster presented at the Psychonomic Society Annual Meeting, Vancouver, BC, Canada.
+
+**Scofield, J. E.**, Buchanan, E. M., & Kostic, B. (2016, November). *A meta-analysis of the survival processing advantage in memory*. Poster presented at the Psychonomic Society Annual Meeting, Boston, MA.
+
+Decker, R., **Scofield, J. E.**, Wekesser, M., Myers, A., & Palmer, T. (2016, May). *Flash suppression eliminates lip-movement influence in syllable identification*. Poster presented at the Midwestern Psychological Association Conference, Chicago, IL.
+
+**Scofield, J. E.** (2016, April). *Sex differences in gender, orientation, and identity*. Poster presented at the Missouri State University Interdisciplinary Forum, Springfield, MO.
+
+**Scofield, J. E.**, & Kostic, B. (2016, April). *Sex differences in heterosexual, homosexual, and bisexual participants*. Oral Talk presented at the Southwestern Psychological Association Conference, Dallas, TX.
+
+**Scofield, J. E.**, Sloan, J., Lin, X., Berry, E., Gambino, D., & Roberts, M. (2015, May). *Effects of hypnotic and progressive relaxation on sleep quality*. Poster presented at the Midwestern Psychological Association Conference, Chicago, IL. 
+
+**Scofield, J. E.**, & Roland, C. (2015, May). *Effects of visual bias on reaching performance with an unseen hand*. Poster presented at the Truman State University Psychological Symposium, Kirksville, MO.
+
+# Software
+Buchanan E., Gillenwaters A., *Scofield J. E.*, Valentine K. (2019). MOTE: Measure of the Effect: Package
+to assist in effect size calculations and their confidence intervals. R package version 1.0.1, https://cran.r-project.org/web/packages/MOTE/index.html
+
+# Research Experience
+
+```{r research_experience}
+
+res = read.csv('research_experience.csv')
+res %>% detailed_entries(title, dates, uni, loc, details)
+
+```
+
+# Statistical Analysis Skills
+
+## Analyses
+* Multivariate Pattern Classification/Machine learning
+    + *SVM, Ridge, Lasso, Naive Bayes, Neural Networks (MLP, CNN)*
+* Bayesian Statistics
+    + *regression, model-building/comparison, bayes factors*
+* Multilevel/mixed effects modeling
+* Structural Equation Modeling
+    + *EFA, single/multi-group CFA, path, latent growth, IRT*
+* meta-analytic techniques
+    + *traditional RE/FE, bayesian multilevel estimation, p-value distribution analysis*
+* GLM
+    + *simultaneous/hierarchical/mediation/moderation/logistic regression, AN/ANC/MAN/MANC-OVA*
+
+## Languages and Software for statistical analysis
+* Python, R, MATLAB, JASP, FSL, AFNI
+
+## Languages and Software for Stimulus Presentation
+* Python (*Psychopy*), MATLAB (*Cogent*)
+
+# Relevant Work Experience
+
+```{r work_experience}
+
+wor = read.csv('work_experience.csv')
+wor %>% detailed_entries(title, dates, uni, loc, details)
+
+```
+
+# Service
+Web & Scholary Communications Committee (08/01/2018 - Present)
+
+Ad-hoc Reviewer: *Brain & Behavior*, *Psychiatry Review*, *Journal of Child Psychology & Psychiatry*, *Evolutionary Psychological Science*
+
+# Organizations / Associations
+Psychonomic Society
+
+Cognitive Neuroscience Society
+
+American Psychological Assoication
+
+Southwestern Psychological Association
+
+# Honors / Awards
+
+Graduate College Research Grant, $300.00, Missouri State University
+
+President's List, Missouri State University
+
+Cum Laude, Truman State University
+
+President's List/ Dean's List, Truman State University, Benedictine College
+
+Varsity Collegiate Baseball, Truman State University, Benedictine College
+
+GLVC Academic all-conference team 2014-2015, Truman State University
+
+GLVC Academic all-conference team 2013-2014, Truman State University
+
+BCIA certification of HRV biofeedback, Truman State University
