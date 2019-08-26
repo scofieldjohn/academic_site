@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(vitae)
 library(tidyverse)
 ```
-An **online version** of this CV can be viewed at: [https://scofieldjohn.github.io/](https://scofieldjohn.github.io/)
+An **online version** of this CV can be viewed at: [https://jscofield.org/](https://jscofield.org/)
 
 # Education
 ```{r load_ed}
