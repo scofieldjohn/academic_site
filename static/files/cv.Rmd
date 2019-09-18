@@ -40,11 +40,13 @@ tea %>% detailed_entries(title, dates, uni, loc, details)
 
 # Publications
 ##Submitted --------------------------
+Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (*Submitted*). Binge drinking is associated with sex-specific cognitive deficits. [https://psyarxiv.com/m3xa8](https://psyarxiv.com/m3xa8)
+
 Geary, D. C., **Scofield, J. E.**, Hoard, M. K., & Nugent, L. (*Submitted*). Cognitive, attitudinal, and classroom contributions to variation in the pattern of adolescents' mathematical competencies.
 
-Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (*Revise & Resubmit*). Tutorial on designing, implementing, and analyzing a degraded image paradigm: A facial expression-decoding task example. [https://osf.io/ntmah/](https://osf.io/ntmah/)
-
 ##2019 -------------------------------
+Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (*In-Press*). Tutorial on designing, implementing, and analyzing a degraded image paradigm: A facial expression-decoding task example. *The Quantitative Methods for Psychology*. [https://osf.io/ntmah/](https://osf.io/ntmah/)
+
 Cowan, N., Adams, E. J., Bhangal, S., Corcoran, M., Decker, R., Dockter, C. E., ... **Scofield, J. E.**, ... & Watts, A. L. (*In-Press*). Foundations of arrogance: A broad survey and framework for research. *Review of General Psychology*.
 
 Chu, F. W., vanMarle, K., Hoard, M. K., Nugent, L., **Scofield, J. E.**, & Geary, D. C. (*In Press*). Preschool deficits in cardinal knowledge and executive function contribute to longer-term mathematical learning disabilities. *Journal of Experimental Child Psychology*. [https://osf.io/phtxm/](https://osf.io/phtxm/)
