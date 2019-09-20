@@ -47,7 +47,7 @@ Geary, D. C., **Scofield, J. E.**, Hoard, M. K., & Nugent, L. (*Submitted*). Cog
 ##2019 -------------------------------
 Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (*In-Press*). Tutorial on designing, implementing, and analyzing a degraded image paradigm: A facial expression-decoding task example. *The Quantitative Methods for Psychology*. [https://osf.io/ntmah/](https://osf.io/ntmah/)
 
-Cowan, N., Adams, E. J., Bhangal, S., Corcoran, M., Decker, R., Dockter, C. E., ... **Scofield, J. E.**, ... & Watts, A. L. (*In-Press*). Foundations of arrogance: A broad survey and framework for research. *Review of General Psychology*.
+Cowan, N., Adams, E. J., Bhangal, S., Corcoran, M., Decker, R., Dockter, C. E., ... **Scofield, J. E.**, ... & Watts, A. L. (2019). Foundations of arrogance: A broad survey and framework for research. *Review of General Psychology*. doi:10.1177/1089268019877138.
 
 Chu, F. W., vanMarle, K., Hoard, M. K., Nugent, L., **Scofield, J. E.**, & Geary, D. C. (*In Press*). Preschool deficits in cardinal knowledge and executive function contribute to longer-term mathematical learning disabilities. *Journal of Experimental Child Psychology*. [https://osf.io/phtxm/](https://osf.io/phtxm/)
 
