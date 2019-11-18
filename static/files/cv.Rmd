@@ -42,14 +42,16 @@ tea %>% detailed_entries(title, dates, uni, loc, details)
 ##Submitted --------------------------
 **Scofield, J. E.**, Price, M. H., Flores, A., Merkle, E. C., & Johnson, J. D. (*Submitted*). Repetition attenuates the influence of recency on recognition memory: Behavioral and electrophysiological evidence. [https://osf.io/572jt/](https://osf.io/572jt/)
 
+Geary, D. C., Hoard, M. K., Nugent, L., & **Scofield, J. E. (*Submitted*). In-class attentive behavior and spatial ability predict across-grade gains in adolescents' mathematics achievement.
+
 Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (*Submitted*). Binge drinking is associated with sex-specific cognitive deficits. [https://psyarxiv.com/m3xa8](https://psyarxiv.com/m3xa8)
 
 Geary, D. C., **Scofield, J. E.**, Hoard, M. K., & Nugent, L. (*Submitted*). Cognitive, attitudinal, and classroom contributions to variation in the pattern of adolescents' mathematical competencies.
 
 ##2019 -------------------------------
-Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (*In-Press*). Tutorial on designing, implementing, and analyzing a degraded image paradigm: A facial expression-decoding task example. *The Quantitative Methods for Psychology*. [https://osf.io/ntmah/](https://osf.io/ntmah/)
+Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (2019). Tutorial on designing, implementing, and analyzing a degraded image paradigm: A facial expression-decoding task example. *The Quantitative Methods for Psychology*, *15*(3), 200-213. doi: 10.20982/tqmp.15.3.p200. [https://osf.io/ntmah/](https://osf.io/ntmah/)
 
-Cowan, N., Adams, E. J., Bhangal, S., Corcoran, M., Decker, R., Dockter, C. E., ... **Scofield, J. E.**, ... & Watts, A. L. (2019). Foundations of arrogance: A broad survey and framework for research. *Review of General Psychology*. doi:10.1177/1089268019877138.
+Cowan, N., Adams, E. J., Bhangal, S., Corcoran, M., Decker, R., Dockter, C. E., ... **Scofield, J. E.**, ... & Watts, A. L. (2019). Foundations of arrogance: A broad survey and framework for research. *Review of General Psychology*, *23*(4), 425-443. doi:10.1177/1089268019877138.
 
 Chu, F. W., vanMarle, K., Hoard, M. K., Nugent, L., **Scofield, J. E.**, & Geary, D. C. (2019). Preschool deficits in cardinal knowledge and executive function contribute to longer-term mathematical learning disabilities. *Journal of Experimental Child Psychology*, *188*, 104668. doi: 10.1016/j.jecp.2019.104668. [https://osf.io/phtxm/](https://osf.io/phtxm/)
 
