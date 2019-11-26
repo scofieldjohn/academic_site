@@ -164,7 +164,7 @@ wor %>% detailed_entries(title, dates, uni, loc, details)
 # Service
 Web & Scholary Communications Committee (08/01/2018 - Present)
 
-Ad-hoc Reviewer: *Brain & Behavior*, *Psychiatry Review*, *Journal of Child Psychology & Psychiatry*, *Evolutionary Psychological Science*
+Ad-hoc Reviewer: *Brain & Behavior*, *Psychiatry Review*, *Journal of Child Psychology & Psychiatry*, *Evolutionary Psychological Science*, *The Social Sciences Journal*
 
 # Organizations / Associations
 Psychonomic Society
