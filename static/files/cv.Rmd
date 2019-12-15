@@ -6,11 +6,11 @@ date: "`r format(Sys.time(), '%B, %Y')`"
 qualifications: Ph.D. candidate, Cognition & Neuroscience
 address: Columbia, Missouri
 email: jel7c5@mail.missouri.edu
-website: https://scofieldjohn.github.io
+website: https://jscofield.org
 github: scofieldjohn
 twitter: jscofield24
 output: vitae::awesomecv
-headcolor: 515151
+headcolor: 414141
 ---
 
 ```{r setup, include=FALSE}
@@ -22,27 +22,23 @@ An **online version** of this CV can be viewed at: [https://jscofield.org/](http
 
 # Education
 ```{r load_ed}
-
 dat = read.csv('education.csv')
 dat %>% detailed_entries(degree, dates, uni, loc, details)
-
 ```
 
 # Teaching
-A copy of my teaching philosophy is accessible online at: [https://scofieldjohn.github.io/](https://scofieldjohn.github.io/)
+A copy of my teaching philosophy is accessible online at: [https://jscofield.org/](https://jscofield.org/)
 
 ```{r teach}
-
 tea = read.csv('teaching.csv')
 tea %>% detailed_entries(title, dates, uni, loc, details)
-
 ```
 
 # Publications
 ##Submitted --------------------------
 **Scofield, J. E.**, Price, M. H., Flores, A., Merkle, E. C., & Johnson, J. D. (*Submitted*). Repetition attenuates the influence of recency on recognition memory: Behavioral and electrophysiological evidence. [https://osf.io/572jt/](https://osf.io/572jt/)
 
-Geary, D. C., Hoard, M. K., Nugent, L., & **Scofield, J. E. (*Submitted*). In-class attentive behavior and spatial ability predict across-grade gains in adolescents' mathematics achievement.
+Geary, D. C., Hoard, M. K., Nugent, L., & **Scofield, J. E.** (*Submitted*). In-class attentive behavior and spatial ability predict across-grade gains in adolescents' mathematics achievement.
 
 Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (*Submitted*). Binge drinking is associated with sex-specific cognitive deficits. [https://psyarxiv.com/m3xa8](https://psyarxiv.com/m3xa8)
 
@@ -125,17 +121,16 @@ to assist in effect size calculations and their confidence intervals. R package 
 # Research Experience
 
 ```{r research_experience}
-
 res = read.csv('research_experience.csv')
 res %>% detailed_entries(title, dates, uni, loc, details)
-
 ```
 
 # Statistical Analysis Skills
 
 ## Analyses
-* Multivariate Pattern Classification/Machine learning
-    + *SVM, Ridge, Lasso, Naive Bayes, Neural Networks (MLP, CNN)*
+* Machine learning
+    + *Deep learning: CNN, RNN/LSTM, GAN*
+    + *MVPA: SVM, Ridge, Lasso, Naive Bayes, Neural Networks/MLP*
 * Bayesian Statistics
     + *regression, model-building/comparison, bayes factors*
 * Multilevel/mixed effects modeling
@@ -147,7 +142,8 @@ res %>% detailed_entries(title, dates, uni, loc, details)
     + *simultaneous/hierarchical/mediation/moderation/logistic regression, AN/ANC/MAN/MANC-OVA*
 
 ## Languages and Software for statistical analysis
-* Python, R, MATLAB, JASP, FSL, AFNI
+* Statistical Analyses: Python, R, MATLAB, JASP
+* Neuroimaging processing: Python, FSL, AFNI, ANTs
 
 ## Languages and Software for Stimulus Presentation
 * Python (*Psychopy*), MATLAB (*Cogent*)
@@ -155,10 +151,8 @@ res %>% detailed_entries(title, dates, uni, loc, details)
 # Relevant Work Experience
 
 ```{r work_experience}
-
 wor = read.csv('work_experience.csv')
 wor %>% detailed_entries(title, dates, uni, loc, details)
-
 ```
 
 # Service
@@ -177,18 +171,17 @@ Southwestern Psychological Association
 
 # Honors / Awards
 
-Graduate College Research Grant, $300.00, Missouri State University
+Research Travel Award, $900 cumulative, University of Missouri
 
-President's List, Missouri State University
+Graduate College Research Grant, $300, Missouri State University
 
-Cum Laude, Truman State University
+Cum Laude, Missouri State University / Truman State University
 
-President's List/ Dean's List, Truman State University, Benedictine College
+President's List, Missouri State University / Truman State University / Benedictine College
 
 Varsity Collegiate Baseball, Truman State University, Benedictine College
 
-GLVC Academic all-conference team 2014-2015, Truman State University
-
-GLVC Academic all-conference team 2013-2014, Truman State University
+GLVC Academic all-conference team 2013-2014 & 2014-2015, Truman State University
 
 BCIA certification of HRV biofeedback, Truman State University
+
