@@ -85,6 +85,10 @@ Buchanan, E. M., & **Scofield, J. E.** (2018). Bulletproof bias? Considering the
 Retrieved from [http://www.psychfiledrawer.org/replication.php?attempt=MjM4](http://www.psychfiledrawer.org/replication.php?attempt=MjM4)
 
 # Presentations
+Clocksin, H. E., **Scofield, J. E.**, Beversdorf, D. Q., Riecken, C., Christ, S. E., & Johnson, J. D. (2020, March). *Resting-state functional connectivity differences in memory networks of autism spectrum disorder*. Poster presented at the Cognitive Neuroscience Society Annual Meeting, Boston, MA.
+
+**Scofield, J. E.**, & Johnson, J. D. (2020, March). *The diminishing precision of temporal information in episodic memory retrieval*. Poster presented at the Cognitive Neuroscience Society Annual Meeting, Boston, MA.
+
 **Scofield, J. E.**, & Johnson, J. D. (2019, November). *The precision of retrieving temporal information associated with episodic memories*. Poster presented at the Psychonomic Society Annual Meeting, Montreal, Canada.
 
 Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (2019, June). *Development of a timed facial expression decoding task*. Talk presented at teh NorthEastern Evolutionary Psychology Society, Boston, MA.
@@ -112,10 +116,6 @@ Decker, R., **Scofield, J. E.**, Wekesser, M., Myers, A., & Palmer, T. (2016, Ma
 **Scofield, J. E.** (2016, April). *Sex differences in gender, orientation, and identity*. Poster presented at the Missouri State University Interdisciplinary Forum, Springfield, MO.
 
 **Scofield, J. E.**, & Kostic, B. (2016, April). *Sex differences in heterosexual, homosexual, and bisexual participants*. Oral Talk presented at the Southwestern Psychological Association Conference, Dallas, TX.
-
-**Scofield, J. E.**, Sloan, J., Lin, X., Berry, E., Gambino, D., & Roberts, M. (2015, May). *Effects of hypnotic and progressive relaxation on sleep quality*. Poster presented at the Midwestern Psychological Association Conference, Chicago, IL. 
-
-**Scofield, J. E.**, & Roland, C. (2015, May). *Effects of visual bias on reaching performance with an unseen hand*. Poster presented at the Truman State University Psychological Symposium, Kirksville, MO.
 
 # Software
 Buchanan E., Gillenwaters A., *Scofield J. E.*, Valentine K. (2019). MOTE: Measure of the Effect: Package
