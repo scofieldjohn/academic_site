@@ -35,7 +35,10 @@ tea %>% detailed_entries(title, dates, uni, loc, details)
 ```
 
 # Publications
-##Submitted --------------------------
+## Submitted ------------------------------------------------------------------------------
+
+**Scofield, J. E.**, & Johnson, J. D. (*Submitted*). The diminishing precision of memory for time.
+
 Geary, D. C., **Scofield, J. E.**, Hoard, M. K., & Nugent, L. (*Submitted*). Boys' advantage on the fractions number line is mediated by visuospatial attention: Evidence for a parietal-spatial contribution to number line learning.
 
 Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (*Submitted*). Binge drinking is associated with sex-specific cognitive deficits. [https://psyarxiv.com/m3xa8](https://psyarxiv.com/m3xa8)
@@ -44,10 +47,12 @@ Geary, D. C., **Scofield, J. E.**, Hoard, M. K., & Nugent, L. (*Submitted*). Cog
 
 **Scofield, J. E.**, Price, M. H., Flores, A., Merkle, E. C., & Johnson, J. D. (*Revise & Resubmit*). Repetition attenuates the influence of recency on recognition memory: Behavioral and electrophysiological evidence. [https://osf.io/572jt/](https://osf.io/572jt/)
 
-Geary, D. C., Hoard, M. K., Nugent, L., & **Scofield, J. E.** (*Revise & Resubmit*). In-class attentive behavior and spatial ability predict across-grade gains in adolescents' mathematics achievement.
+## 2020 -----------------------------------------------------------------------------------
 
+Geary, D. C., Hoard, M. K., Nugent, L., & **Scofield, J. E.** (*In Press*). In-class attention, spatial ability, and mathematics anxiety predict across-grade gains in adolescents' mathematics achievement. *Journal of Educational Psychology*.
 
-##2019 -------------------------------
+## 2019 -----------------------------------------------------------------------------------
+
 Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (2019). Tutorial on designing, implementing, and analyzing a degraded image paradigm: A facial expression-decoding task example. *The Quantitative Methods for Psychology*, *15*(3), 200-213. doi: 10.20982/tqmp.15.3.p200. [https://osf.io/ntmah/](https://osf.io/ntmah/)
 
 Cowan, N., Adams, E. J., Bhangal, S., Corcoran, M., Decker, R., Dockter, C. E., ... **Scofield, J. E.**, ... & Watts, A. L. (2019). Foundations of arrogance: A broad survey and framework for research. *Review of General Psychology*, *23*(4), 425-443. doi:10.1177/1089268019877138.
@@ -62,15 +67,21 @@ Geary, D. C., Hoard, M. K., Nugent, L., Chu, F., **Scofield, J. E.**, & Hibbard,
 
 Valentine, K. D., Buchanan, E. M., **Scofield, J. E.**, & Beauchamp, M. T. (2019). Beyond p-values: Utilizing multiple estimates to evaluate evidence. *Behaviormetrika*. doi:10.1007/s41237-019-00078-4.
 
-##2018 -------------------------------
+Buchanan E., Gillenwaters A., *Scofield J. E.*, Valentine K. (2019). MOTE: Measure of the Effect: Package
+to assist in effect size calculations and their confidence intervals. R package version 1.0.1, https://cran.r-project.org/web/packages/MOTE/index.html
+
+## 2018 -----------------------------------------------------------------------------------
+
 Buchanan, E. M., & **Scofield, J. E.** (2018). Methods to detect low quality data and its implication for psychological research. *Behavior Research Methods*, 50(6), 2586-2596. doi:10.3758/s13428-018-1035-6.
 
 **Scofield, J. E.**, Buchanan, E. M., & Kostic, B. (2018). A meta-analysis of the survival processing advantage in memory. *Psychonomic Bulletin and Review*, 25(3), 997-1012. doi:10.3758/s13423-017-1346-0.
 
-##2017 --------------------------------
+## 2017 ------------------------------------------------------------------------------------
+
 Derringer, C. J., **Scofield, J. E.**, & Kostic, B. (2017). Investigations of a reproductive processing advantage in memory. *Memory and Cognition*, 45(6), 983-1001. doi: 10.3758/s13421-017-0709-0.
 
-##Pre-prints/Replications -------------
+## Pre-prints/Replications ------------------------------------------------------------
+
 Sumner, C., **Scofield, J. E.**, Buchanan, E. M., Evans, M., & Shearing, M. (2019). The role of personality, authoritarianism and cognition in the United Kingdom's 2016 referendum on European union membership. [https://osf.io/n5r67/](https://osf.io/n5r67/)
 
 Kostic, B., & **Scofield, J. E.** (2019). Sex differences across sexual orientation and sexual identity. [https://osf.io/8tnd4/](https://osf.io/8tnd4/)
@@ -85,9 +96,9 @@ Buchanan, E. M., & **Scofield, J. E.** (2018). Bulletproof bias? Considering the
 Retrieved from [http://www.psychfiledrawer.org/replication.php?attempt=MjM4](http://www.psychfiledrawer.org/replication.php?attempt=MjM4)
 
 # Presentations
-Clocksin, H. E., **Scofield, J. E.**, Beversdorf, D. Q., Riecken, C., Christ, S. E., & Johnson, J. D. (2020, March). *Resting-state functional connectivity differences in memory networks of autism spectrum disorder*. Poster presented at the Cognitive Neuroscience Society Annual Meeting, Boston, MA.
+Clocksin, H. E., **Scofield, J. E.**, Beversdorf, D. Q., Riecken, C., Christ, S. E., & Johnson, J. D. (2020, May). *Resting-state functional connectivity differences in memory networks of autism spectrum disorder*. Poster presented at the Cognitive Neuroscience Society Annual Meeting, Virtual (Boston, MA).
 
-**Scofield, J. E.**, & Johnson, J. D. (2020, March). *The diminishing precision of temporal information in episodic memory retrieval*. Poster presented at the Cognitive Neuroscience Society Annual Meeting, Boston, MA.
+**Scofield, J. E.**, & Johnson, J. D. (2020, May). *The diminishing precision of temporal information in episodic memory retrieval*. Poster presented at the Cognitive Neuroscience Society Annual Meeting, Virtual (Boston, MA).
 
 **Scofield, J. E.**, & Johnson, J. D. (2019, November). *The precision of retrieving temporal information associated with episodic memories*. Poster presented at the Psychonomic Society Annual Meeting, Montreal, Canada.
 
@@ -117,10 +128,6 @@ Decker, R., **Scofield, J. E.**, Wekesser, M., Myers, A., & Palmer, T. (2016, Ma
 
 **Scofield, J. E.**, & Kostic, B. (2016, April). *Sex differences in heterosexual, homosexual, and bisexual participants*. Oral Talk presented at the Southwestern Psychological Association Conference, Dallas, TX.
 
-# Software
-Buchanan E., Gillenwaters A., *Scofield J. E.*, Valentine K. (2019). MOTE: Measure of the Effect: Package
-to assist in effect size calculations and their confidence intervals. R package version 1.0.1, https://cran.r-project.org/web/packages/MOTE/index.html
-
 # Research Experience
 
 ```{r research_experience}
@@ -147,6 +154,7 @@ res %>% detailed_entries(title, dates, uni, loc, details)
 ## Languages and Software for statistical analysis
 * Statistical Analyses: Python, R, MATLAB, JASP
 * Neuroimaging processing: Python, FSL, AFNI, ANTs
+* Software package development: MOTE (https://cran.r-project.org/web/packages/MOTE/index.html)
 
 ## Languages and Software for Stimulus Presentation
 * Python (*Psychopy*), MATLAB (*Cogent*)
@@ -161,7 +169,7 @@ wor %>% detailed_entries(title, dates, uni, loc, details)
 # Service
 Web & Scholary Communications Committee (08/01/2018 - Present)
 
-Ad-hoc Reviewer: *Brain & Behavior*, *Journal of Integrative Neuroscience*, *Psychiatry Research*, *Journal of Child Psychology & Psychiatry*, *Evolutionary Psychological Science*, *The Social Sciences Journal*
+Ad-hoc Reviewer: *Memory*; *Brain & Behavior*; *Journal of Integrative Neuroscience*; *Psychiatry Research*; *Journal of Child Psychology & Psychiatry*; *Evolutionary Psychological Science*; *The Social Sciences Journal*
 
 # Organizations / Associations
 Psychonomic Society
