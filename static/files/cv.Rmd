@@ -41,9 +41,9 @@ tea %>% detailed_entries(title, dates, uni, loc, details)
 
 Geary, D. C., **Scofield, J. E.**, Hoard, M. K., & Nugent, L. (*Submitted*). Boys' advantage on the fractions number line is mediated by visuospatial attention: Evidence for a parietal-spatial contribution to number line learning.
 
-Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (*Submitted*). Binge drinking is associated with sex-specific cognitive deficits. [https://psyarxiv.com/m3xa8](https://psyarxiv.com/m3xa8)
-
 Geary, D. C., **Scofield, J. E.**, Hoard, M. K., & Nugent, L. (*Submitted*). Cognitive, attitudinal, and classroom contributions to variation in the pattern of adolescents' mathematical competencies.
+
+Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (*Revise & Resubmit*). Binge drinking is associated with sex-specific cognitive deficits. [https://psyarxiv.com/m3xa8](https://psyarxiv.com/m3xa8)
 
 **Scofield, J. E.**, Price, M. H., Flores, A., Merkle, E. C., & Johnson, J. D. (*Revise & Resubmit*). Repetition attenuates the influence of recency on recognition memory: Behavioral and electrophysiological evidence. [https://osf.io/572jt/](https://osf.io/572jt/)
 
@@ -67,7 +67,7 @@ Geary, D. C., Hoard, M. K., Nugent, L., Chu, F., **Scofield, J. E.**, & Hibbard,
 
 Valentine, K. D., Buchanan, E. M., **Scofield, J. E.**, & Beauchamp, M. T. (2019). Beyond p-values: Utilizing multiple estimates to evaluate evidence. *Behaviormetrika*. doi:10.1007/s41237-019-00078-4.
 
-Buchanan E., Gillenwaters A., *Scofield J. E.*, Valentine K. (2019). MOTE: Measure of the Effect: Package
+Buchanan E., Gillenwaters A., **Scofield J. E.**, Valentine K. (2019). MOTE: Measure of the Effect: Package
 to assist in effect size calculations and their confidence intervals. R package version 1.0.1, https://cran.r-project.org/web/packages/MOTE/index.html
 
 ## 2018 -----------------------------------------------------------------------------------
