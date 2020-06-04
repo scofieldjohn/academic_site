@@ -48,9 +48,9 @@ Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (*Revise &
 
 ## 2020 -----------------------------------------------------------------------------------
 
-**Scofield, J. E.**, Price, M. H., Flores, A., Merkle, E. C., & Johnson, J. D. (*In Press*). Repetition attenuates the influence of recency on recognition memory: Behavioral and electrophysiological evidence. *Psychophysiology*. doi:10.1111/PSYP.13601. [https://osf.io/572jt/](https://osf.io/572jt/)
+Geary, D. C., Hoard, M. K., Nugent, L., & **Scofield, J. E.** (*In Press*). In-class attention, spatial ability, and mathematics anxiety predict across-grade gains in adolescents' mathematics achievement. *Journal of Educational Psychology*. doi:10.1037/edu0000487
 
-Geary, D. C., Hoard, M. K., Nugent, L., & **Scofield, J. E.** (*In Press*). In-class attention, spatial ability, and mathematics anxiety predict across-grade gains in adolescents' mathematics achievement. *Journal of Educational Psychology*.
+**Scofield, J. E.**, Price, M. H., Flores, A., Merkle, E. C., & Johnson, J. D. (2020). Repetition attenuates the influence of recency on recognition memory: Behavioral and electrophysiological evidence. *Psychophysiology*. doi:10.1111/PSYP.13601. [https://osf.io/572jt/](https://osf.io/572jt/)
 
 ## 2019 -----------------------------------------------------------------------------------
 
@@ -170,7 +170,7 @@ wor %>% detailed_entries(title, dates, uni, loc, details)
 # Service
 Web & Scholary Communications Committee (08/01/2018 - Present)
 
-Ad-hoc Reviewer: *Memory*; *Brain & Behavior*; *Journal of Integrative Neuroscience*; *Psychiatry Research*; *Journal of Child Psychology & Psychiatry*; *Evolutionary Psychological Science*; *The Social Sciences Journal*
+Ad-hoc Reviewer: *Memory*; *Brain & Behavior*; *Journal of Integrative Neuroscience*; *Cognition and Emotion*; *Psychiatry Research*; *Journal of Child Psychology & Psychiatry*; *Evolutionary Psychological Science*; *The Social Sciences Journal*
 
 # Organizations / Associations
 Psychonomic Society
