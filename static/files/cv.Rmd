@@ -37,11 +37,11 @@ tea %>% detailed_entries(title, dates, uni, loc, details)
 # Publications
 ## Submitted ------------------------------------------------------------------------------
 
-**Scofield, J. E.**, & Johnson, J. D. (*Submitted*). The diminishing precision of memory for time.
-
 Geary, D. C., **Scofield, J. E.**, Hoard, M. K., & Nugent, L. (*Submitted*). Boys' advantage on the fractions number line is mediated by visuospatial attention: Evidence for a parietal-spatial contribution to number line learning.
 
-Geary, D. C., **Scofield, J. E.**, Hoard, M. K., & Nugent, L. (*Submitted*). Cognitive, attitudinal, and classroom contributions to variation in the pattern of adolescents' mathematical competencies.
+**Scofield, J. E.**, & Johnson, J. D. (*Revise & Resubmit*). The diminishing precision of memory for time.
+
+Geary, D. C., **Scofield, J. E.**, Hoard, M. K., & Nugent, L. (*Revise & Resubmit*). Cognitive, attitudinal, and classroom contributions to variation in the pattern of adolescents' mathematical competencies.
 
 Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (*Revise & Resubmit*). Binge drinking is associated with sex-specific cognitive deficits. [https://psyarxiv.com/m3xa8](https://psyarxiv.com/m3xa8)
 
