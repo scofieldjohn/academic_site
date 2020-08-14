@@ -37,18 +37,18 @@ tea %>% detailed_entries(title, dates, uni, loc, details)
 # Publications
 ## Submitted ------------------------------------------------------------------------------
 
-Geary, D. C., **Scofield, J. E.**, Hoard, M. K., & Nugent, L. (*Submitted*). Boys' advantage on the fractions number line is mediated by visuospatial attention: Evidence for a parietal-spatial contribution to number line learning.
+Geary, D. C., **Scofield, J. E.**, Hoard, M. K., & Nugent, L. (*Revise & Resubmit*). Boys' advantage on the fractions number line is mediated by visuospatial attention: Evidence for a parietal-spatial contribution to number line learning.
 
 **Scofield, J. E.**, & Johnson, J. D. (*Revise & Resubmit*). The diminishing precision of memory for time.
 
 Geary, D. C., **Scofield, J. E.**, Hoard, M. K., & Nugent, L. (*Revise & Resubmit*). Cognitive, attitudinal, and classroom contributions to variation in the pattern of adolescents' mathematical competencies.
 
-Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (*Revise & Resubmit*). Binge drinking is associated with sex-specific cognitive deficits. [https://psyarxiv.com/m3xa8](https://psyarxiv.com/m3xa8)
-
 
 ## 2020 -----------------------------------------------------------------------------------
 
-Geary, D. C., Hoard, M. K., Nugent, L., & **Scofield, J. E.** (*In Press*). In-class attention, spatial ability, and mathematics anxiety predict across-grade gains in adolescents' mathematics achievement. *Journal of Educational Psychology*. doi:10.1037/edu0000487
+Hone, L. S. E., **Scofield, J. E.**, Bartholow, B. D., & Geary, D. C. (*In Press*). Binge drinking is associated with sex-specific cognitive deficits. *Evolutionary Psychology*. preprint: [https://psyarxiv.com/m3xa8](https://psyarxiv.com/m3xa8)
+
+Geary, D. C., Hoard, M. K., Nugent, L., & **Scofield, J. E.** (2020). In-class attention, spatial ability, and mathematics anxiety predict across-grade gains in adolescents' mathematics achievement. *Journal of Educational Psychology*. doi:10.1037/edu0000487
 
 **Scofield, J. E.**, Price, M. H., Flores, A., Merkle, E. C., & Johnson, J. D. (2020). Repetition attenuates the influence of recency on recognition memory: Behavioral and electrophysiological evidence. *Psychophysiology*. doi:10.1111/PSYP.13601. [https://osf.io/572jt/](https://osf.io/572jt/)
 
