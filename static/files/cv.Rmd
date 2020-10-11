@@ -171,7 +171,7 @@ wor %>% detailed_entries(title, dates, uni, loc, details)
 # Service
 Web & Scholary Communications Committee (08/01/2018 - Present)
 
-Ad-hoc Reviewer: *Memory*; *Brain & Behavior*; *Journal of Integrative Neuroscience*; *Cognition and Emotion*; *Psychiatry Research*; *Journal of Child Psychology & Psychiatry*; *Evolutionary Psychological Science*; *The Social Sciences Journal*
+Ad-hoc Reviewer: *Memory*; *Brain & Behavior*; *Journal of Integrative Neuroscience*; *Cognition and Emotion*; *Psychology & Aging*; *Psychiatry Research*; *Journal of Child Psychology & Psychiatry*; *Evolutionary Psychological Science*; *The Social Sciences Journal*
 
 # Organizations / Associations
 Psychonomic Society

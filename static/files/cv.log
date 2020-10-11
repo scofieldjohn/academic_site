@@ -1,0 +1,39 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.7) (preloaded format=xelatex 2020.10.11)  11 OCT 2020 11:48
+entering extended mode
+**./cv.tex
+(cv.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-09-03> (awesome-cv.cls
+Document Class: awesome-cv 2017/02/05 v1.6.1 Awesome Curriculum Vitae Class
+(C:\Users\jscof\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(C:\Users\jscof\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count164
+\c@section=\count165
+\c@subsection=\count166
+\c@subsubsection=\count167
+\c@paragraph=\count168
+\c@subparagraph=\count169
+\c@figure=\count170
+\c@table=\count171
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (C:\Users\jscof\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen135
+\ar@mcellbox=\box45
+\extrarowheight=\dimen136
+\NC@list=\toks15
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box46
+)
+
+! Sorry, but C:\Users\jscof\AppData\Local\Programs\MiKTeX\miktex\bin\x64\xelatex.exe did not succeed.
+
+! The log file hopefully contains the information to get MiKTeX going again:
+
+!   C:\Users\jscof\AppData\Local\MiKTeX\miktex\log\xelatex.log
